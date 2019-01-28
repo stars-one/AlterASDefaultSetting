@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlterASDefaultSetting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlterASDefaultSetting_jar</output-path>
+    <root id="archive" name="AlterASDefaultSetting.jar">
+      <element id="module-output" name="AlterASDefaultSetting" />
+    </root>
+  </artifact>
+</component>
