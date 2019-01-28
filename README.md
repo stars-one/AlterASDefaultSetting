@@ -1,5 +1,6 @@
 # AlterASDefaultSetting
 一款小工具，可以修改Android Studio默认的appcompat,.compileSdkVersion,buildToolsVersion,targetSdkVersion版本号 
+**此工具仅限于Android Studio3.0.1，其他版本未做尝试**
 ## 使用说明
 打开`run.bat`
 
